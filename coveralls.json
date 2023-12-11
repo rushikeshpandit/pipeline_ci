@@ -5,7 +5,8 @@
 		"lib/pipeline_ci_web/telemetry.ex",
 		"lib/pipeline_ci_web/router.ex",
 		"lib/pipeline_ci_web/views/error_helpers.ex",
-		"test/support/data_case.ex"
+		"test/support/data_case.ex",
+		"lib/pipeline_ci_web/components/core_components.ex"
 	],
 	"coverage_options": {
 		"treat_no_relevant_lines_as_covered": true,
